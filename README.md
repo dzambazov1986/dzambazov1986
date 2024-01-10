@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software technologies
 - 🌱 I’m currently learning QA and JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Can find me here https://www.linkedin.com/in/dimityr-dzhambazov-5a6849a3/
 
 <!---
 dzambazov1986/dzambazov1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

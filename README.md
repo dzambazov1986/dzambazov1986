@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzambazov1986
+- 👋 Hi, I’m Dimityr Dzhambazov
 - 👀 I’m interested in Software technologies,programing and car software
 - 🌱 I’m currently learning for  QA Engineer ,C# and JS
 - 📫 Can find me here https://www.linkedin.com/in/dimityr-dzhambazov-5a6849a3/
